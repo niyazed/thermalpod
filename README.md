@@ -4,14 +4,16 @@
 
 I made this out of curiosity and experiment how this thing will look like. This is fully based on some image processing techniques using OpenCV, no hardware components are used. It can be integrated with <b>IR Camera</b> to get the actual temperature. Now, the temperatue is based on only some mathematical operation. So, make sure to integrate an IR and test before doing anything further.
 
-Here I attached a youtube link - https://www.youtube.com/watch?v=k6qim96wB4k
+Here I've attached two youtube links: 
+- https://www.youtube.com/watch?v=k6qim96wB4k
+- https://www.youtube.com/watch?v=CWnVHOqTdrE
 
-#### Dependencies
+### Dependencies
 - OpenCV
 - NumPy
 - Python3
 
-#### Get Started
+### Get Started
 Run this command to start:
 ```sh
     $ python realtime_demo.py
@@ -29,7 +31,7 @@ Comment `only_face()` if you want to work with whole frame.
 
 ##### Note - If you want you can choose any other Face Detector, Here I am using `Haar Cascade` for simplicity.
 
-#### Output
+### Output
 ![output.gif](output.gif)
 
 
