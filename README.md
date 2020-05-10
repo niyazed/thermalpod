@@ -34,6 +34,8 @@ Comment `only_face()` if you want to work with whole frame.
 ### Output
 ![output.gif](output.gif)
 
+### Reference
+https://medium.com/@feat7/a-tutorial-on-camera-based-thermal-screening-using-computer-vision-d8b3304c08e3
 
 ### Future Plan
 IR sensor integration with a raspberry pi to give the project a whole look.
