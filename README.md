@@ -9,7 +9,7 @@ Here I attached a youtube link - https://www.youtube.com/watch?v=k6qim96wB4k
 #### Dependencies
 - OpenCV
 - NumPy
-- Pyrhon3
+- Python3
 
 #### Get Started
 Run this command to start:
