@@ -2,7 +2,9 @@
 
 ### ⚠️ DO NOT USE THIS COMMERCIALLY AS A PRODUCT.
 
-I built this out of curosity and test how this thing will look like. This is fully based on some image processing techniques using OpenCV, no hardware components are used. It can be integrated with <b>IR Sensor</b> to get the actual temperature. Now, the temperatue is based on only some mathematical operation. So, make sure to integrate an IR and test before doing anything further.
+I built this out of curosity and test how this thing will look like. This is fully based on some image processing techniques using OpenCV, no hardware components are used. It can be integrated with <b>IR Camera</b> to get the actual temperature. Now, the temperatue is based on only some mathematical operation. So, make sure to integrate an IR and test before doing anything further.
+
+Here I attached a youtube link - https://www.youtube.com/watch?v=k6qim96wB4k
 
 #### Dependencies
 - OpenCV
